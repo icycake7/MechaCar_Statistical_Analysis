@@ -59,6 +59,6 @@ MechaCar suspension coils dictate that the variance of the suspension coils must
     To perform the statistical tests mentioned above, we would need to get data that shows all manufacturer’s car fuel efficiency metrics and their corresponding safety ratings. 
 
 - ### Conclusion:
-    If we determine that there is a statistical difference between fuel efficiency and car safety ratings, the company could use that as a competitive advantage over other car manufactures. If there is no statistical difference, however, the company could look at other metrics such as price vs horse power, or maintenance cost vs car safety. There are numerous statistical tests that can be performed in order to gauge what the competition is doing.
+    If we determine that there is a statistical difference between fuel efficiency and car safety ratings, the company could use that as a competitive advantage over other car manufactures. If there is no statistical difference, however, the company could look at other metrics such as price vs horse power, or maintenance cost vs car safety. There are numerous statistical tests that can be performed in order to gauge what the competition is doing or fails to do.
 
 
