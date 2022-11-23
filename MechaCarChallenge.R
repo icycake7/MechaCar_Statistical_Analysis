@@ -28,7 +28,7 @@ lot_summary
 # 1.Determine if PSI across all manufacturing lots is statistically different from the population mean of 1,500 PSI
 t.test(Suspension_Coil$PSI, mu=1500)
 
-#2. determine if the PSI for each manufacturing lot is statistically different from the population mean of 1,500 PSI
+# 2.determine if the PSI for each manufacturing lot is statistically different from the population mean of 1,500 PSI
 
 # separate the lots 
 lot1 <- subset(Suspension_Coil, Manufacturing_Lot=="Lot1")
