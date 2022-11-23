@@ -47,7 +47,7 @@ MechaCar suspension coils dictate that the variance of the suspension coils must
 - ### Metrics:
     In order to get a better understanding of our competition, the company needs to first determine what the costumer is most likely to be interested in. For our example, we will use fuel efficiency and general safety ratings as our data points.
 - ### Null Hypothesis:
-    There is no correlation on average between fuel efficient cars and there safety ratings.
+    There is no correlation on average between fuel efficient cars and their safety ratings.
 - ### Alternative Hypothesis:
     Fuel efficient cars are on average safer than cars with lower fuel efficiency.
 
